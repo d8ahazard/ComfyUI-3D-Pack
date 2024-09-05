@@ -1,5 +1,5 @@
 repo_id: "MrForExample/Comfy3D_Pre_Builds"
-supported_cuda_versions: ["12.1", "11.8"]
+supported_cuda_versions: ["12.6", "12.1", "11.8"]
 cuda_version: "12.1"
 
 # Packages inside this file will be pip downloaded before actual build start
